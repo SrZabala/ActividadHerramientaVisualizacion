@@ -1,0 +1,6922 @@
+[
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2023,
+      "T_Max_Abs": 35.1,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 13.4,
+      "T_Min_Abs": -0.8
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2022,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 13.7,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2020,
+      "T_Max_Abs": 32.1,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 13.6,
+      "T_Min_Abs": 2.3
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2019,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 13.4,
+      "T_Min_Abs": 1.3
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2018,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 13.9,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2017,
+      "T_Max_Abs": 34.3,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 13.5,
+      "T_Min_Abs": -0.6
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2016,
+      "T_Max_Abs": 31.8,
+      "T_Max_Med": 21.3,
+      "T_Min_Med": 13.6,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2015,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 13.6,
+      "T_Min_Abs": 0.5
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2014,
+      "T_Max_Abs": 33.2,
+      "T_Max_Med": 19.7,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2013,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 20.7,
+      "T_Min_Med": 13.1,
+      "T_Min_Abs": 0.7
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2012,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2011,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 13,
+      "T_Min_Abs": -3.3
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2010,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 19.9,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2009,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 20.8,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": -2.7
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2008,
+      "T_Max_Abs": 32.1,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 12.3,
+      "T_Min_Abs": -0.1
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2007,
+      "T_Max_Abs": 31.8,
+      "T_Max_Med": 21.1,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2006,
+      "T_Max_Abs": 33.5,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 13.3,
+      "T_Min_Abs": 0.2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2005,
+      "T_Max_Abs": 34.9,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 12.5,
+      "T_Min_Abs": -1.5
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2004,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 13.1,
+      "T_Min_Abs": -0.2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2003,
+      "T_Max_Abs": 37.3,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 13.2,
+      "T_Min_Abs": -1.1
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2002,
+      "T_Max_Abs": 30.3,
+      "T_Max_Med": 19.7,
+      "T_Min_Med": 11.6,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2001,
+      "T_Max_Abs": 30.2,
+      "T_Max_Med": 19.1,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 2000,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 20,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1999,
+      "T_Max_Abs": 32.3,
+      "T_Max_Med": 20.8,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": -0.2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1998,
+      "T_Max_Abs": 32,
+      "T_Max_Med": 21,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1997,
+      "T_Max_Abs": 31.4,
+      "T_Max_Med": 20.8,
+      "T_Min_Med": 13.2,
+      "T_Min_Abs": 2.8
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1996,
+      "T_Max_Abs": 32.6,
+      "T_Max_Med": 19.9,
+      "T_Min_Med": 12.4,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1995,
+      "T_Max_Abs": 32.4,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 12.7,
+      "T_Min_Abs": 0.4
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1994,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 12.7,
+      "T_Min_Abs": 0.2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1993,
+      "T_Max_Abs": 32,
+      "T_Max_Med": 19.1,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1992,
+      "T_Max_Abs": 31.6,
+      "T_Max_Med": 19.1,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1991,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 19.3,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -0.8
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1990,
+      "T_Max_Abs": 33.8,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 12.4,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1989,
+      "T_Max_Abs": 32.6,
+      "T_Max_Med": 21,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": 0.8
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1988,
+      "T_Max_Abs": 32.4,
+      "T_Max_Med": 20.7,
+      "T_Min_Med": 10.7,
+      "T_Min_Abs": -1.5
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1987,
+      "T_Max_Abs": 32.5,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1986,
+      "T_Max_Abs": 33.5,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1985,
+      "T_Max_Abs": 33.5,
+      "T_Max_Med": 19.8,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -7.2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1984,
+      "T_Max_Abs": 29.6,
+      "T_Max_Med": 19.6,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1983,
+      "T_Max_Abs": 34.2,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1982,
+      "T_Max_Abs": 32.8,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -0.8
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1981,
+      "T_Max_Abs": 31.4,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -1.5
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1980,
+      "T_Max_Abs": 31.8,
+      "T_Max_Med": 19.8,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1979,
+      "T_Max_Abs": 31.2,
+      "T_Max_Med": 20,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1978,
+      "T_Max_Abs": 30.6,
+      "T_Max_Med": 19.7,
+      "T_Min_Med": 10,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1977,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 19.8,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1976,
+      "T_Max_Abs": 32.4,
+      "T_Max_Med": 19.7,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1975,
+      "T_Max_Abs": 32.6,
+      "T_Max_Med": 19.6,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": 0.2
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1974,
+      "T_Max_Abs": 32,
+      "T_Max_Med": 19.4,
+      "T_Min_Med": 10.3,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Barcelona",
+      "Ano": 1973,
+      "T_Max_Abs": 30.8,
+      "T_Max_Med": 19.5,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2023,
+      "T_Max_Abs": 41.1,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 11.6,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2022,
+      "T_Max_Abs": 43.4,
+      "T_Max_Med": 23.8,
+      "T_Min_Med": 12,
+      "T_Min_Abs": -1.1
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2021,
+      "T_Max_Abs": 43.7,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2020,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 22.9,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -1.7
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2019,
+      "T_Max_Abs": 40.3,
+      "T_Max_Med": 23,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2018,
+      "T_Max_Abs": 42.4,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -3.1
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2017,
+      "T_Max_Abs": 43.2,
+      "T_Max_Med": 24.1,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -3.7
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2016,
+      "T_Max_Abs": 42.3,
+      "T_Max_Med": 22.3,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2015,
+      "T_Max_Abs": 40.7,
+      "T_Max_Med": 23,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2014,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 22,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2013,
+      "T_Max_Abs": 39.9,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2012,
+      "T_Max_Abs": 42.4,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2011,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 23,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2010,
+      "T_Max_Abs": 40.1,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2009,
+      "T_Max_Abs": 38.9,
+      "T_Max_Med": 23,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2008,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2007,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 10,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2006,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2005,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2004,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2003,
+      "T_Max_Abs": 41.8,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2002,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2001,
+      "T_Max_Abs": 38.7,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 2000,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1999,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1998,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1997,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1996,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 21.3,
+      "T_Min_Med": 10.7,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1995,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 23.1,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1994,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 22.2,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1993,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1992,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 10.3,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1991,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 10.7,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1990,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1989,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 22.8,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1988,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1987,
+      "T_Max_Abs": 39.6,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1986,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1985,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 10.3,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1984,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1983,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1982,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1981,
+      "T_Max_Abs": 41.4,
+      "T_Max_Med": 22.5,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": -0.4
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1980,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 21.3,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1979,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1978,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1977,
+      "T_Max_Abs": 36.6,
+      "T_Max_Med": 20.2,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1976,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 20.7,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1975,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 20.6,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -0.6
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1974,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": 0.8
+    },
+    {
+      "Ciudad": "Cáceres",
+      "Ano": 1973,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2023,
+      "T_Max_Abs": 33.4,
+      "T_Max_Med": 19.6,
+      "T_Min_Med": 13.4,
+      "T_Min_Abs": 2.5
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2022,
+      "T_Max_Abs": 32.9,
+      "T_Max_Med": 19,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": 3.5
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2021,
+      "T_Max_Abs": 33.6,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": 2.3
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2020,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": 4.4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2019,
+      "T_Max_Abs": 33.5,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": 3.3
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2018,
+      "T_Max_Abs": 31.9,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 12,
+      "T_Min_Abs": 1.9
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2017,
+      "T_Max_Abs": 33.2,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 2.2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2016,
+      "T_Max_Abs": 30.6,
+      "T_Max_Med": 18,
+      "T_Min_Med": 12,
+      "T_Min_Abs": 3.7
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2015,
+      "T_Max_Abs": 29,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 12.3,
+      "T_Min_Abs": 4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2014,
+      "T_Max_Abs": 30.4,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 12.5,
+      "T_Min_Abs": 3
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2013,
+      "T_Max_Abs": 31.4,
+      "T_Max_Med": 18,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": 3.5
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2012,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 11.6,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2011,
+      "T_Max_Abs": 31.6,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": 4.2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2010,
+      "T_Max_Abs": 30.8,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 11.6,
+      "T_Min_Abs": 0.3
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2009,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2008,
+      "T_Max_Abs": 29.6,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 12,
+      "T_Min_Abs": 3.3
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2007,
+      "T_Max_Abs": 29.8,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2006,
+      "T_Max_Abs": 34.5,
+      "T_Max_Med": 18.9,
+      "T_Min_Med": 12.4,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2005,
+      "T_Max_Abs": 32.4,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": 1.8
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2004,
+      "T_Max_Abs": 28,
+      "T_Max_Med": 18,
+      "T_Min_Med": 12,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2003,
+      "T_Max_Abs": 34.2,
+      "T_Max_Med": 18.4,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2002,
+      "T_Max_Abs": 28.6,
+      "T_Max_Med": 18,
+      "T_Min_Med": 12,
+      "T_Min_Abs": 4.4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2001,
+      "T_Max_Abs": 28.8,
+      "T_Max_Med": 17.7,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 2000,
+      "T_Max_Abs": 34.4,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": 2.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1999,
+      "T_Max_Abs": 31.8,
+      "T_Max_Med": 18,
+      "T_Min_Med": 12,
+      "T_Min_Abs": 3
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1998,
+      "T_Max_Abs": 32.6,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": 2.4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1997,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 18.9,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1996,
+      "T_Max_Abs": 31.4,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": 2.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1995,
+      "T_Max_Abs": 32,
+      "T_Max_Med": 18.7,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": 3.2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1994,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 11.6,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1993,
+      "T_Max_Abs": 35.2,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1992,
+      "T_Max_Abs": 30.6,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1991,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1990,
+      "T_Max_Abs": 31.6,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 1.8
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1989,
+      "T_Max_Abs": 33.6,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 12.3,
+      "T_Min_Abs": 3.2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1988,
+      "T_Max_Abs": 30.4,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": 3.4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1987,
+      "T_Max_Abs": 30.6,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": -0.5
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1986,
+      "T_Max_Abs": 28,
+      "T_Max_Med": 16.7,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1985,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -0.2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1984,
+      "T_Max_Abs": 28,
+      "T_Max_Med": 16.6,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1983,
+      "T_Max_Abs": 31,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": 0.2
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1982,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": 3
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1981,
+      "T_Max_Abs": 32.2,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": 2.4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1980,
+      "T_Max_Abs": 34.8,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1979,
+      "T_Max_Abs": 29.8,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 11,
+      "T_Min_Abs": 0.4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1978,
+      "T_Max_Abs": 31.4,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1977,
+      "T_Max_Abs": 26.8,
+      "T_Max_Med": 16.9,
+      "T_Min_Med": 11,
+      "T_Min_Abs": 2.4
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1976,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 10.7,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1975,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 16.9,
+      "T_Min_Med": 11,
+      "T_Min_Abs": 0.8
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1974,
+      "T_Max_Abs": 28.2,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": 3
+    },
+    {
+      "Ciudad": "Coruña",
+      "Ano": 1973,
+      "T_Max_Abs": 27.6,
+      "T_Max_Med": 16.9,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": 2.6
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2023,
+      "T_Max_Abs": 43.3,
+      "T_Max_Med": 21,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -6.7
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2022,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 22,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2021,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 20,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2020,
+      "T_Max_Abs": 38.3,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 8.7,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2019,
+      "T_Max_Abs": 42.2,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 8.7,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2018,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 20,
+      "T_Min_Med": 8.7,
+      "T_Min_Abs": -3.9
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2017,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2016,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 20.2,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2015,
+      "T_Max_Abs": 37.6,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -4.1
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2014,
+      "T_Max_Abs": 36.1,
+      "T_Max_Med": 20.8,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2013,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 19.1,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -5.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2012,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2011,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -4.9
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2010,
+      "T_Max_Abs": 38.9,
+      "T_Max_Med": 19,
+      "T_Min_Med": 7.8,
+      "T_Min_Abs": -6.5
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2009,
+      "T_Max_Abs": 37.9,
+      "T_Max_Med": 20.6,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -6.9
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2008,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 19.5,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2007,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 20,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2006,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 20.6,
+      "T_Min_Med": 8.7,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2005,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 19.5,
+      "T_Min_Med": 7.9,
+      "T_Min_Abs": -8.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2004,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 19.2,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2003,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2002,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 19.8,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2001,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -9.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 2000,
+      "T_Max_Abs": 36.8,
+      "T_Max_Med": 19.8,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1999,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 19.1,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1998,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 19.4,
+      "T_Min_Med": 7.9,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1997,
+      "T_Max_Abs": 34.2,
+      "T_Max_Med": 20.2,
+      "T_Min_Med": 8.7,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1996,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 19.4,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1995,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1994,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 8.4,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1993,
+      "T_Max_Abs": 39.8,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 7.1,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1992,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 7.5,
+      "T_Min_Abs": -6.6
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1991,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 19.2,
+      "T_Min_Med": 7.6,
+      "T_Min_Abs": -6.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1990,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 8.4,
+      "T_Min_Abs": -7.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1989,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -7.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1988,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 18.9,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -8.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1987,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 19.1,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1986,
+      "T_Max_Abs": 37.6,
+      "T_Max_Med": 18.7,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1985,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 19.1,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -7
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1984,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 7.9,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1983,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 19.1,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -7
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1982,
+      "T_Max_Abs": 42.8,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1981,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 19.3,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1980,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -6.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1979,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 18,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -6.4
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1978,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -6.4
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1977,
+      "T_Max_Abs": 34.2,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1976,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 18.4,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1975,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 18,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -5.2
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1974,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Logroño",
+      "Ano": 1973,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -6.2
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2023,
+      "T_Max_Abs": 39.8,
+      "T_Max_Med": 22.3,
+      "T_Min_Med": 10.7,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2022,
+      "T_Max_Abs": 41.5,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": -1.5
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2021,
+      "T_Max_Abs": 42.2,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -13
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2020,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2019,
+      "T_Max_Abs": 40.5,
+      "T_Max_Med": 22,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2018,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2017,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2016,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -4.5
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2015,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2014,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 21.3,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2013,
+      "T_Max_Abs": 37.7,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 8.8,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2012,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 21.1,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -6.8
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2011,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2010,
+      "T_Max_Abs": 37.7,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -5.5
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2009,
+      "T_Max_Abs": 38.1,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2008,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2007,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2006,
+      "T_Max_Abs": 38.5,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2005,
+      "T_Max_Abs": 39.6,
+      "T_Max_Med": 21.1,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -7.6
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2004,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 20.7,
+      "T_Min_Med": 9.4,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2003,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -5.2
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2002,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -0.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2001,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -6.6
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 2000,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1999,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 20.8,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1998,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1997,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 21.3,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1996,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1995,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 10,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1994,
+      "T_Max_Abs": 39.6,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 8.8,
+      "T_Min_Abs": -6.6
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1993,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 19.3,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1992,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1991,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 20.2,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1990,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 20.6,
+      "T_Min_Med": 9.6,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1989,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 20.8,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1988,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 19.9,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1987,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1986,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 19.6,
+      "T_Min_Med": 8.7,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1985,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -8
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1984,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 19,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1983,
+      "T_Max_Abs": 35.8,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -7.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1982,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1981,
+      "T_Max_Abs": 39.6,
+      "T_Max_Med": 20.7,
+      "T_Min_Med": 8.7,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1980,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 19.9,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1979,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 19.6,
+      "T_Min_Med": 8.8,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1978,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 19.6,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -6.5
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1977,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 19,
+      "T_Min_Med": 7.9,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1976,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 19.2,
+      "T_Min_Med": 7.8,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1975,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 19.4,
+      "T_Min_Med": 7.8,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1974,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 19.6,
+      "T_Min_Med": 7.6,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Madrid",
+      "Ano": 1973,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 20.2,
+      "T_Min_Med": 7.2,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2023,
+      "T_Max_Abs": 43.9,
+      "T_Max_Med": 26.9,
+      "T_Min_Med": 12.9,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2022,
+      "T_Max_Abs": 45.1,
+      "T_Max_Med": 26.5,
+      "T_Min_Med": 13.2,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2021,
+      "T_Max_Abs": 47,
+      "T_Max_Med": 25.6,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2020,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 25.9,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": -1.9
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2019,
+      "T_Max_Abs": 42.8,
+      "T_Max_Med": 25.8,
+      "T_Min_Med": 12,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2018,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 25.4,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2017,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 25.9,
+      "T_Min_Med": 12.4,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2016,
+      "T_Max_Abs": 43.6,
+      "T_Max_Med": 25.6,
+      "T_Min_Med": 13,
+      "T_Min_Abs": -0.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2015,
+      "T_Max_Abs": 43,
+      "T_Max_Med": 25.9,
+      "T_Min_Med": 12.9,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2014,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 26.2,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2013,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 25,
+      "T_Min_Med": 12,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2012,
+      "T_Max_Abs": 44.6,
+      "T_Max_Med": 25.4,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2011,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 25.4,
+      "T_Min_Med": 12,
+      "T_Min_Abs": -4.7
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2010,
+      "T_Max_Abs": 43,
+      "T_Max_Med": 24,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2009,
+      "T_Max_Abs": 45,
+      "T_Max_Med": 25.2,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2008,
+      "T_Max_Abs": 39.8,
+      "T_Max_Med": 24.4,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2007,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 24.6,
+      "T_Min_Med": 12,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2006,
+      "T_Max_Abs": 41.6,
+      "T_Max_Med": 25.1,
+      "T_Min_Med": 12.9,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2005,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 24.4,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2004,
+      "T_Max_Abs": 41.8,
+      "T_Max_Med": 24.7,
+      "T_Min_Med": 12.3,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2003,
+      "T_Max_Abs": 41.8,
+      "T_Max_Med": 25,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2002,
+      "T_Max_Abs": 37.5,
+      "T_Max_Med": 24.8,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2001,
+      "T_Max_Abs": 41.4,
+      "T_Max_Med": 25.2,
+      "T_Min_Med": 12.4,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 2000,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 25,
+      "T_Min_Med": 11.6,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1999,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 25,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1998,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 25.1,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1997,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 25.2,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": -0.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1996,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 24.2,
+      "T_Min_Med": 11.6,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1995,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 25.5,
+      "T_Min_Med": 12,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1994,
+      "T_Max_Abs": 46.1,
+      "T_Max_Med": 25.5,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1993,
+      "T_Max_Abs": 42.3,
+      "T_Max_Med": 23.8,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1992,
+      "T_Max_Abs": 39.8,
+      "T_Max_Med": 24.2,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1991,
+      "T_Max_Abs": 40.5,
+      "T_Max_Med": 24.3,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1990,
+      "T_Max_Abs": 40.5,
+      "T_Max_Med": 24.9,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1989,
+      "T_Max_Abs": 41.5,
+      "T_Max_Med": 24.7,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": -1.5
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1988,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 24.9,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1987,
+      "T_Max_Abs": 40.5,
+      "T_Max_Med": 24.9,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1986,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 24.7,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1985,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 24.8,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1984,
+      "T_Max_Abs": 43.4,
+      "T_Max_Med": 24.1,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1983,
+      "T_Max_Abs": 42.4,
+      "T_Max_Med": 25.4,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1982,
+      "T_Max_Abs": 43.4,
+      "T_Max_Med": 24.7,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1981,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 25,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1980,
+      "T_Max_Abs": 41.6,
+      "T_Max_Med": 24.2,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1979,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 24.4,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1978,
+      "T_Max_Abs": 43,
+      "T_Max_Med": 24,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1977,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1976,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 10.7,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1975,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1974,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 23.4,
+      "T_Min_Med": 10.7,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Murcia",
+      "Ano": 1973,
+      "T_Max_Abs": 37.1,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2023,
+      "T_Max_Abs": 18,
+      "T_Max_Med": 1,
+      "T_Min_Med": 0.3,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2022,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -1.7
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2021,
+      "T_Max_Abs": 32.3,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 9.4,
+      "T_Min_Abs": -2.1
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2020,
+      "T_Max_Abs": 33.4,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2019,
+      "T_Max_Abs": 33.9,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": -1.5
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2018,
+      "T_Max_Abs": 31.9,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 9.4,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2017,
+      "T_Max_Abs": 33.8,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -2.3
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2016,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 9.6,
+      "T_Min_Abs": -0.2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2015,
+      "T_Max_Abs": 32,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -0.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2014,
+      "T_Max_Abs": 29.1,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2013,
+      "T_Max_Abs": 32.8,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -0.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2012,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2011,
+      "T_Max_Abs": 34.1,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -0.1
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2010,
+      "T_Max_Abs": 31.5,
+      "T_Max_Med": 16.9,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2009,
+      "T_Max_Abs": 32.2,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2008,
+      "T_Max_Abs": 29.8,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2007,
+      "T_Max_Abs": 32.5,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2006,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 9.6,
+      "T_Min_Abs": -3.7
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2005,
+      "T_Max_Abs": 33.4,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2004,
+      "T_Max_Abs": 32.4,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2003,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 18,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2002,
+      "T_Max_Abs": 29.2,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": 0.4
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2001,
+      "T_Max_Abs": 32.2,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 2000,
+      "T_Max_Abs": 35.5,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1999,
+      "T_Max_Abs": 33.5,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1998,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 17.7,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -0.8
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1997,
+      "T_Max_Abs": 29,
+      "T_Max_Med": 18.4,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1996,
+      "T_Max_Abs": 29.4,
+      "T_Max_Med": 16.9,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1995,
+      "T_Max_Abs": 30.5,
+      "T_Max_Med": 18,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": 0.2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1994,
+      "T_Max_Abs": 34.9,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1993,
+      "T_Max_Abs": 32.1,
+      "T_Max_Med": 16.6,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1992,
+      "T_Max_Abs": 32,
+      "T_Max_Med": 16.7,
+      "T_Min_Med": 8.7,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1991,
+      "T_Max_Abs": 32.2,
+      "T_Max_Med": 16.8,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1990,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 18,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1989,
+      "T_Max_Abs": 34.4,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1988,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1987,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1986,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 16.2,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1985,
+      "T_Max_Abs": 33.4,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 8.8,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1984,
+      "T_Max_Abs": 31.6,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1983,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1982,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 17,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1981,
+      "T_Max_Abs": 32.6,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1980,
+      "T_Max_Abs": 32.2,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 8.4,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1979,
+      "T_Max_Abs": 29.6,
+      "T_Max_Med": 16.2,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1978,
+      "T_Max_Abs": 31.3,
+      "T_Max_Med": 16.5,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1977,
+      "T_Max_Abs": 32.6,
+      "T_Max_Med": 16.3,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1976,
+      "T_Max_Abs": 32.2,
+      "T_Max_Med": 16.5,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1975,
+      "T_Max_Abs": 30.2,
+      "T_Max_Med": 16.3,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1974,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 16.3,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Oviedo",
+      "Ano": 1973,
+      "T_Max_Abs": 30.8,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2023,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 23.8,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2022,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 24.2,
+      "T_Min_Med": 12.7,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2021,
+      "T_Max_Abs": 38.5,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2020,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 23.4,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": -1.7
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2019,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2018,
+      "T_Max_Abs": 38.7,
+      "T_Max_Med": 22.9,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": -2.3
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2017,
+      "T_Max_Abs": 40.1,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": -0.7
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2016,
+      "T_Max_Abs": 39.3,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": -1.5
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2015,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2014,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 23.7,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": -0.7
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2013,
+      "T_Max_Abs": 38.7,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2012,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2011,
+      "T_Max_Abs": 38.3,
+      "T_Max_Med": 23.1,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2010,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2009,
+      "T_Max_Abs": 37.5,
+      "T_Max_Med": 22.5,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": -3.1
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2008,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 22,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2007,
+      "T_Max_Abs": 36.6,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2006,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 23.2,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2005,
+      "T_Max_Abs": 37.3,
+      "T_Max_Med": 22.2,
+      "T_Min_Med": 10.3,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2004,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2003,
+      "T_Max_Abs": 39.9,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2002,
+      "T_Max_Abs": 35.5,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2001,
+      "T_Max_Abs": 41.4,
+      "T_Max_Med": 23.1,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 2000,
+      "T_Max_Abs": 37.1,
+      "T_Max_Med": 22.9,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1999,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 22.9,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1998,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -1.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1997,
+      "T_Max_Abs": 36.3,
+      "T_Max_Med": 23.2,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": -0.8
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1996,
+      "T_Max_Abs": 39.6,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1995,
+      "T_Max_Abs": 36.6,
+      "T_Max_Med": 22.8,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1994,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 23,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1993,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1992,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1991,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1990,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 22.5,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1989,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 23,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1988,
+      "T_Max_Abs": 37.5,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1987,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1986,
+      "T_Max_Abs": 37.6,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1985,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 22,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1984,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 21.3,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1983,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 9.6,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1982,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 22.3,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1981,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 22,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1980,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 9.4,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1979,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1978,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1977,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 21.3,
+      "T_Min_Med": 9.6,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1976,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 8.8,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1975,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1974,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Palma de Mallorca",
+      "Ano": 1973,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2023,
+      "T_Max_Abs": 36.3,
+      "T_Max_Med": 15.2,
+      "T_Min_Med": 7.3,
+      "T_Min_Abs": -2.7
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2022,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 19.8,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -3.7
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2021,
+      "T_Max_Abs": 41.6,
+      "T_Max_Med": 19,
+      "T_Min_Med": 7.1,
+      "T_Min_Abs": -6.6
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2020,
+      "T_Max_Abs": 41.3,
+      "T_Max_Med": 19.8,
+      "T_Min_Med": 7.6,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2019,
+      "T_Max_Abs": 41.3,
+      "T_Max_Med": 19.9,
+      "T_Min_Med": 7.1,
+      "T_Min_Abs": -3.1
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2018,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 19,
+      "T_Min_Med": 7.7,
+      "T_Min_Abs": -6.3
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2017,
+      "T_Max_Abs": 38.5,
+      "T_Max_Med": 20,
+      "T_Min_Med": 7,
+      "T_Min_Abs": -7.2
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2016,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 18.9,
+      "T_Min_Med": 7.4,
+      "T_Min_Abs": -4.7
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2015,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 6.9,
+      "T_Min_Abs": -5.1
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2014,
+      "T_Max_Abs": 36.6,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 7.4,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2013,
+      "T_Max_Abs": 37.7,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 7.6,
+      "T_Min_Abs": -5.1
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2012,
+      "T_Max_Abs": 41.4,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -7.2
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2011,
+      "T_Max_Abs": 39.3,
+      "T_Max_Med": 19.4,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -4.7
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2010,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 7.9,
+      "T_Min_Abs": -5.7
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2009,
+      "T_Max_Abs": 37.7,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -5.2
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2008,
+      "T_Max_Abs": 36.8,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2007,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2006,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 19.9,
+      "T_Min_Med": 9.4,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2005,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 7.7,
+      "T_Min_Abs": -9
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2004,
+      "T_Max_Abs": 36.5,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -4.5
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2003,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 19.3,
+      "T_Min_Med": 8.8,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2002,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -1.5
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2001,
+      "T_Max_Abs": 38.5,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -10
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 2000,
+      "T_Max_Abs": 35.5,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1999,
+      "T_Max_Abs": 36.5,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1998,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1997,
+      "T_Max_Abs": 34.8,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1996,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 17,
+      "T_Min_Med": 7.7,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1995,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 7.9,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1994,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -6.8
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1993,
+      "T_Max_Abs": 37.6,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 7.5,
+      "T_Min_Abs": -4.5
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1992,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 7.7,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1991,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 7.7,
+      "T_Min_Abs": -5.2
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1990,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 8.2,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1989,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -7.6
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1988,
+      "T_Max_Abs": 36.8,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 8,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1987,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 8.1,
+      "T_Min_Abs": -8.3
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1986,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 7.5,
+      "T_Min_Abs": -6.8
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1985,
+      "T_Max_Abs": 37.6,
+      "T_Max_Med": 17.7,
+      "T_Min_Med": 7.4,
+      "T_Min_Abs": -11.8
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1984,
+      "T_Max_Abs": 37.5,
+      "T_Max_Med": 16.2,
+      "T_Min_Med": 7.2,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1983,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 7.8,
+      "T_Min_Abs": -9.5
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1982,
+      "T_Max_Abs": 39.8,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1981,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 7.7,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1980,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 7.2,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1979,
+      "T_Max_Abs": 33.8,
+      "T_Max_Med": 16.3,
+      "T_Min_Med": 7.6,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1978,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 16.6,
+      "T_Min_Med": 7.7,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1977,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 16.7,
+      "T_Min_Med": 7.9,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1976,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 7.9,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1975,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 17,
+      "T_Min_Med": 7.8,
+      "T_Min_Abs": -6.2
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1974,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 7.6,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Pamplona",
+      "Ano": 1973,
+      "T_Max_Abs": 36.8,
+      "T_Max_Med": 16.8,
+      "T_Min_Med": 7.6,
+      "T_Min_Abs": -6.2
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2022,
+      "T_Max_Abs": 33.5,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 12.9,
+      "T_Min_Abs": 2.1
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2021,
+      "T_Max_Abs": 33.6,
+      "T_Max_Med": 17.7,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 2.5
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2020,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": 3.5
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2019,
+      "T_Max_Abs": 34.8,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 3.6
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2018,
+      "T_Max_Abs": 29.5,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 12.3,
+      "T_Min_Abs": -0.8
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2017,
+      "T_Max_Abs": 31.5,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 1.3
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2016,
+      "T_Max_Abs": 30.9,
+      "T_Max_Med": 17.7,
+      "T_Min_Med": 12,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2015,
+      "T_Max_Abs": 31.5,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 12.3,
+      "T_Min_Abs": 0.9
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2014,
+      "T_Max_Abs": 31.5,
+      "T_Max_Med": 18.4,
+      "T_Min_Med": 12.7,
+      "T_Min_Abs": 2.9
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2013,
+      "T_Max_Abs": 29,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": 3
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2012,
+      "T_Max_Abs": 33.5,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2011,
+      "T_Max_Abs": 32.5,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": 3
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2010,
+      "T_Max_Abs": 29.2,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": 0.5
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2009,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": 0.8
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2008,
+      "T_Max_Abs": 26.4,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": 2.5
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2007,
+      "T_Max_Abs": 29.5,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2006,
+      "T_Max_Abs": 32.4,
+      "T_Max_Med": 18.4,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": -0.1
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2005,
+      "T_Max_Abs": 32.6,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": -0.3
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2004,
+      "T_Max_Abs": 30.8,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": 1.2
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2003,
+      "T_Max_Abs": 34.1,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 12.5,
+      "T_Min_Abs": 1.3
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2002,
+      "T_Max_Abs": 29.9,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": 5
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2001,
+      "T_Max_Abs": 32.2,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 2000,
+      "T_Max_Abs": 34.5,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 0.1
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1999,
+      "T_Max_Abs": 28.3,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1998,
+      "T_Max_Abs": 33.4,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1997,
+      "T_Max_Abs": 31.5,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 12.5,
+      "T_Min_Abs": 2.1
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1996,
+      "T_Max_Abs": 31.6,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1995,
+      "T_Max_Abs": 32.9,
+      "T_Max_Med": 18.9,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 2.5
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1994,
+      "T_Max_Abs": 36.6,
+      "T_Max_Med": 18.4,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": -0.5
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1993,
+      "T_Max_Abs": 33.5,
+      "T_Max_Med": 18,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": 0.5
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1992,
+      "T_Max_Abs": 35.2,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": 2.4
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1991,
+      "T_Max_Abs": 30.4,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1990,
+      "T_Max_Abs": 35.5,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 12.4,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1989,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 19.1,
+      "T_Min_Med": 12.5,
+      "T_Min_Abs": 0.5
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1988,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": 1.2
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1987,
+      "T_Max_Abs": 36.8,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 12,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1986,
+      "T_Max_Abs": 31.6,
+      "T_Max_Med": 16.8,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1985,
+      "T_Max_Abs": 32.2,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 11.4,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1984,
+      "T_Max_Abs": 32.4,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1983,
+      "T_Max_Abs": 35.8,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 11.9,
+      "T_Min_Abs": -0.4
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1982,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": 3.6
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1981,
+      "T_Max_Abs": 29.5,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1980,
+      "T_Max_Abs": 31,
+      "T_Max_Med": 16.8,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1979,
+      "T_Max_Abs": 28.5,
+      "T_Max_Med": 16.7,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1978,
+      "T_Max_Abs": 31.2,
+      "T_Max_Med": 16.7,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1977,
+      "T_Max_Abs": 30,
+      "T_Max_Med": 17,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": 2.4
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1976,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 17,
+      "T_Min_Med": 11,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1975,
+      "T_Max_Abs": 33.6,
+      "T_Max_Med": 16.8,
+      "T_Min_Med": 11.1,
+      "T_Min_Abs": 0.8
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1974,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": 1.8
+    },
+    {
+      "Ciudad": "Santander",
+      "Ano": 1973,
+      "T_Max_Abs": 31.6,
+      "T_Max_Med": 16.7,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2023,
+      "T_Max_Abs": 43.7,
+      "T_Max_Med": 25.4,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": -0.8
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2022,
+      "T_Max_Abs": 44.8,
+      "T_Max_Med": 26.6,
+      "T_Min_Med": 13.6,
+      "T_Min_Abs": 1.1
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2021,
+      "T_Max_Abs": 44.9,
+      "T_Max_Med": 26,
+      "T_Min_Med": 13,
+      "T_Min_Abs": -1.5
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2020,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2019,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 26.1,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": 0.5
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2018,
+      "T_Max_Abs": 44.5,
+      "T_Max_Med": 24.8,
+      "T_Min_Med": 12.7,
+      "T_Min_Abs": -0.6
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2017,
+      "T_Max_Abs": 43.6,
+      "T_Max_Med": 27,
+      "T_Min_Med": 13.4,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2016,
+      "T_Max_Abs": 44.8,
+      "T_Max_Med": 25.9,
+      "T_Min_Med": 13.6,
+      "T_Min_Abs": 0.3
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2015,
+      "T_Max_Abs": 42.9,
+      "T_Max_Med": 26.7,
+      "T_Min_Med": 13.3,
+      "T_Min_Abs": 1.5
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2014,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 25.6,
+      "T_Min_Med": 13.5,
+      "T_Min_Abs": 2.2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2013,
+      "T_Max_Abs": 42.8,
+      "T_Max_Med": 25.2,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": 1.2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2012,
+      "T_Max_Abs": 45.9,
+      "T_Max_Med": 25.7,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2011,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 26.3,
+      "T_Min_Med": 14.3,
+      "T_Min_Abs": 2.4
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2010,
+      "T_Max_Abs": 42.5,
+      "T_Max_Med": 25.3,
+      "T_Min_Med": 14.4,
+      "T_Min_Abs": 1.3
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2009,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 26.4,
+      "T_Min_Med": 14.2,
+      "T_Min_Abs": -0.5
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2008,
+      "T_Max_Abs": 41.2,
+      "T_Max_Med": 25.5,
+      "T_Min_Med": 13.6,
+      "T_Min_Abs": 0.8
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2007,
+      "T_Max_Abs": 42.9,
+      "T_Max_Med": 25.5,
+      "T_Min_Med": 13.5,
+      "T_Min_Abs": 0.2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2006,
+      "T_Max_Abs": 43.6,
+      "T_Max_Med": 25.9,
+      "T_Min_Med": 14.3,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2005,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 25.9,
+      "T_Min_Med": 13,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2004,
+      "T_Max_Abs": 44.3,
+      "T_Max_Med": 25.6,
+      "T_Min_Med": 13.5,
+      "T_Min_Abs": 0.1
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2003,
+      "T_Max_Abs": 45.2,
+      "T_Max_Med": 25.6,
+      "T_Min_Med": 14,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2002,
+      "T_Max_Abs": 40.3,
+      "T_Max_Med": 25.3,
+      "T_Min_Med": 13.7,
+      "T_Min_Abs": 3
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2001,
+      "T_Max_Abs": 40.5,
+      "T_Max_Med": 25.5,
+      "T_Min_Med": 13.8,
+      "T_Min_Abs": 2.1
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 2000,
+      "T_Max_Abs": 41.8,
+      "T_Max_Med": 25.8,
+      "T_Min_Med": 13.2,
+      "T_Min_Abs": 0.3
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1999,
+      "T_Max_Abs": 41.2,
+      "T_Max_Med": 25.5,
+      "T_Min_Med": 13.1,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1998,
+      "T_Max_Abs": 41.2,
+      "T_Max_Med": 25.7,
+      "T_Min_Med": 13.2,
+      "T_Min_Abs": 0.3
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1997,
+      "T_Max_Abs": 39.7,
+      "T_Max_Med": 25.8,
+      "T_Min_Med": 14.1,
+      "T_Min_Abs": 3.4
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1996,
+      "T_Max_Abs": 42.2,
+      "T_Max_Med": 24.8,
+      "T_Min_Med": 13.2,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1995,
+      "T_Max_Abs": 46.6,
+      "T_Max_Med": 26.6,
+      "T_Min_Med": 14,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1994,
+      "T_Max_Abs": 43.9,
+      "T_Max_Med": 26.3,
+      "T_Min_Med": 12.9,
+      "T_Min_Abs": -2.5
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1993,
+      "T_Max_Abs": 42.4,
+      "T_Max_Med": 24.7,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": -2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1992,
+      "T_Max_Abs": 43.2,
+      "T_Max_Med": 25.3,
+      "T_Min_Med": 11.6,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1991,
+      "T_Max_Abs": 44.4,
+      "T_Max_Med": 25.2,
+      "T_Min_Med": 12.2,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1990,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 25.8,
+      "T_Min_Med": 12.9,
+      "T_Min_Abs": 0.2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1989,
+      "T_Max_Abs": 44.8,
+      "T_Max_Med": 25.9,
+      "T_Min_Med": 13.3,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1988,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 24.8,
+      "T_Min_Med": 12.3,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1987,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 24.6,
+      "T_Min_Med": 12.9,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1986,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 24.5,
+      "T_Min_Med": 11.6,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1985,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 25.2,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1984,
+      "T_Max_Abs": 42.4,
+      "T_Max_Med": 24.1,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1983,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 25.1,
+      "T_Min_Med": 12.1,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1982,
+      "T_Max_Abs": 43.4,
+      "T_Max_Med": 24.6,
+      "T_Min_Med": 12,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1981,
+      "T_Max_Abs": 43,
+      "T_Max_Med": 25.6,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1980,
+      "T_Max_Abs": 41.8,
+      "T_Max_Med": 24.8,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1979,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 24.2,
+      "T_Min_Med": 12,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1978,
+      "T_Max_Abs": 44,
+      "T_Max_Med": 24.3,
+      "T_Min_Med": 12,
+      "T_Min_Abs": -2.2
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1977,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 24.2,
+      "T_Min_Med": 11.7,
+      "T_Min_Abs": 0.8
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1976,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 24.2,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -3.6
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1975,
+      "T_Max_Abs": 44,
+      "T_Max_Med": 24.7,
+      "T_Min_Med": 11.2,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1974,
+      "T_Max_Abs": 42.2,
+      "T_Max_Med": 24.8,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -1
+    },
+    {
+      "Ciudad": "Sevilla",
+      "Ano": 1973,
+      "T_Max_Abs": 41.6,
+      "T_Max_Med": 24.7,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -0.6
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2023,
+      "T_Max_Abs": 42.9,
+      "T_Max_Med": 24,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2022,
+      "T_Max_Abs": 42.5,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 11.3,
+      "T_Min_Abs": -0.7
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2021,
+      "T_Max_Abs": 44.2,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -13.4
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2020,
+      "T_Max_Abs": 42.5,
+      "T_Max_Med": 23.2,
+      "T_Min_Med": 10.7,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2019,
+      "T_Max_Abs": 41.9,
+      "T_Max_Med": 23.8,
+      "T_Min_Med": 10.3,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2018,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -4.9
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2017,
+      "T_Max_Abs": 42.8,
+      "T_Max_Med": 24.3,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -4.5
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2016,
+      "T_Max_Abs": 41.3,
+      "T_Max_Med": 23,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2015,
+      "T_Max_Abs": 42.8,
+      "T_Max_Med": 23.7,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2014,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 22.9,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -5.3
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2013,
+      "T_Max_Abs": 40.3,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2012,
+      "T_Max_Abs": 43.1,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 9.4,
+      "T_Min_Abs": -6.1
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2011,
+      "T_Max_Abs": 39.9,
+      "T_Max_Med": 23.4,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2010,
+      "T_Max_Abs": 39.9,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -5.7
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2009,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 23.1,
+      "T_Min_Med": 10.3,
+      "T_Min_Abs": -6.2
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2008,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 22,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -4.3
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2007,
+      "T_Max_Abs": 41.3,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -6.3
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2006,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 23.1,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2005,
+      "T_Max_Abs": 41.2,
+      "T_Max_Med": 22.8,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -9.6
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2004,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2003,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 22.8,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -5.5
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2002,
+      "T_Max_Abs": 40.1,
+      "T_Max_Med": 22.2,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2001,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 22.2,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -8
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 2000,
+      "T_Max_Abs": 40.3,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1999,
+      "T_Max_Abs": 41.2,
+      "T_Max_Med": 22.3,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1998,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": -5.9
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1997,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 10.3,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1996,
+      "T_Max_Abs": 39.1,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1995,
+      "T_Max_Abs": 42.4,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 10.7,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1994,
+      "T_Max_Abs": 40.7,
+      "T_Max_Med": 22.8,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1993,
+      "T_Max_Abs": 41.1,
+      "T_Max_Med": 20.6,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -6.6
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1992,
+      "T_Max_Abs": 40.5,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1991,
+      "T_Max_Abs": 41.8,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1990,
+      "T_Max_Abs": 41.3,
+      "T_Max_Med": 22.3,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -6.5
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1989,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 10.3,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1988,
+      "T_Max_Abs": 40.4,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -4.5
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1987,
+      "T_Max_Abs": 41.6,
+      "T_Max_Med": 22,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -5.2
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1986,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 8.7,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1985,
+      "T_Max_Abs": 41,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -8.9
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1984,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 20.6,
+      "T_Min_Med": 8.3,
+      "T_Min_Abs": -4.9
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1983,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 22,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -9
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1982,
+      "T_Max_Abs": 39.6,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1981,
+      "T_Max_Abs": 41.4,
+      "T_Max_Med": 22,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1980,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 21,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1979,
+      "T_Max_Abs": 38.5,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 10,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1978,
+      "T_Max_Abs": 39.9,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1977,
+      "T_Max_Abs": 35.8,
+      "T_Max_Med": 19.7,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -1.8
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1976,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 20.2,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1975,
+      "T_Max_Abs": 39.3,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1974,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 20.2,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Toledo",
+      "Ano": 1973,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 8.8,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2023,
+      "T_Max_Abs": 44.5,
+      "T_Max_Med": 24.1,
+      "T_Min_Med": 15,
+      "T_Min_Abs": 1.9
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2022,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 23.8,
+      "T_Min_Med": 15.3,
+      "T_Min_Abs": 2.9
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2021,
+      "T_Max_Abs": 39.6,
+      "T_Max_Med": 22.8,
+      "T_Min_Med": 14.5,
+      "T_Min_Abs": 0.8
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2020,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 23.4,
+      "T_Min_Med": 14.6,
+      "T_Min_Abs": 2.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2019,
+      "T_Max_Abs": 41.4,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 14.5,
+      "T_Min_Abs": 1.7
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2018,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 23.2,
+      "T_Min_Med": 14.8,
+      "T_Min_Abs": 2.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2017,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 23.4,
+      "T_Min_Med": 14.2,
+      "T_Min_Abs": 0.9
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2016,
+      "T_Max_Abs": 35.1,
+      "T_Max_Med": 23.1,
+      "T_Min_Med": 15,
+      "T_Min_Abs": 2.8
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2015,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 23.6,
+      "T_Min_Med": 14.8,
+      "T_Min_Abs": 2.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2014,
+      "T_Max_Abs": 41.6,
+      "T_Max_Med": 23.7,
+      "T_Min_Med": 15.2,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2013,
+      "T_Max_Abs": 36.5,
+      "T_Max_Med": 23,
+      "T_Min_Med": 14.5,
+      "T_Min_Abs": 3.2
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2012,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 23.2,
+      "T_Min_Med": 14.1,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2011,
+      "T_Max_Abs": 37.1,
+      "T_Max_Med": 23,
+      "T_Min_Med": 14.4,
+      "T_Min_Abs": -0.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2010,
+      "T_Max_Abs": 43,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 13.6,
+      "T_Min_Abs": 0.5
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2009,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 23.1,
+      "T_Min_Med": 14.3,
+      "T_Min_Abs": -0.3
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2008,
+      "T_Max_Abs": 38.5,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 14,
+      "T_Min_Abs": 3.1
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2007,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 22.9,
+      "T_Min_Med": 14.2,
+      "T_Min_Abs": 2.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2006,
+      "T_Max_Abs": 33.2,
+      "T_Max_Med": 23,
+      "T_Min_Med": 14.8,
+      "T_Min_Abs": -0.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2005,
+      "T_Max_Abs": 37.5,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 13.5,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2004,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 23,
+      "T_Min_Med": 14.4,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2003,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 14.7,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2002,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 14.2,
+      "T_Min_Abs": 4.8
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2001,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 23.9,
+      "T_Min_Med": 14.5,
+      "T_Min_Abs": 1.8
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 2000,
+      "T_Max_Abs": 40.3,
+      "T_Max_Med": 23.7,
+      "T_Min_Med": 13.6,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1999,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 13.8,
+      "T_Min_Abs": -0.5
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1998,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 14,
+      "T_Min_Abs": 2.2
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1997,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 14.4,
+      "T_Min_Abs": 2.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1996,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 22.8,
+      "T_Min_Med": 13.7,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1995,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 23.4,
+      "T_Min_Med": 14.2,
+      "T_Min_Abs": 3
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1994,
+      "T_Max_Abs": 42.5,
+      "T_Max_Med": 23.4,
+      "T_Min_Med": 14.2,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1993,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1992,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 22.2,
+      "T_Min_Med": 13.1,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1991,
+      "T_Max_Abs": 36.7,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 13,
+      "T_Min_Abs": 0.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1990,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 14,
+      "T_Min_Abs": 2
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1989,
+      "T_Max_Abs": 34.8,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 14.4,
+      "T_Min_Abs": 1.8
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1988,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 13.7,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1987,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 22.5,
+      "T_Min_Med": 13.8,
+      "T_Min_Abs": 1
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1986,
+      "T_Max_Abs": 41.8,
+      "T_Max_Med": 22.3,
+      "T_Min_Med": 13.4,
+      "T_Min_Abs": 0.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1985,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 13.4,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1984,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 12.6,
+      "T_Min_Abs": 0.8
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1983,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 13.3,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1982,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 22.2,
+      "T_Min_Med": 13.8,
+      "T_Min_Abs": 3.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1981,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 22.4,
+      "T_Min_Med": 13.3,
+      "T_Min_Abs": 0.5
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1980,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 13,
+      "T_Min_Abs": -0.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1979,
+      "T_Max_Abs": 32.6,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 13.7,
+      "T_Min_Abs": 1.4
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1978,
+      "T_Max_Abs": 35.2,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 13.3,
+      "T_Min_Abs": 0.2
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1977,
+      "T_Max_Abs": 37.6,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 13.2,
+      "T_Min_Abs": 3
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1976,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 12.7,
+      "T_Min_Abs": 1.6
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1975,
+      "T_Max_Abs": 34.2,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 12.8,
+      "T_Min_Abs": 1.8
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1974,
+      "T_Max_Abs": 40,
+      "T_Max_Med": 22.1,
+      "T_Min_Med": 12.5,
+      "T_Min_Abs": 2.5
+    },
+    {
+      "Ciudad": "Valencia",
+      "Ano": 1973,
+      "T_Max_Abs": 34.8,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 12.5,
+      "T_Min_Abs": 0.2
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2023,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 19.5,
+      "T_Min_Med": 6.1,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2022,
+      "T_Max_Abs": 39.6,
+      "T_Max_Med": 20,
+      "T_Min_Med": 6.3,
+      "T_Min_Abs": -6.4
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2021,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 5.3,
+      "T_Min_Abs": -9
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2020,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 18.9,
+      "T_Min_Med": 6.1,
+      "T_Min_Abs": -5.2
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2019,
+      "T_Max_Abs": 38.9,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 5.3,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2018,
+      "T_Max_Abs": 36.8,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 5.6,
+      "T_Min_Abs": -8.2
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2017,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 19.5,
+      "T_Min_Med": 5.2,
+      "T_Min_Abs": -8.9
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2016,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 5.3,
+      "T_Min_Abs": -7.3
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2015,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 5.3,
+      "T_Min_Abs": -7.3
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2014,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 6.2,
+      "T_Min_Abs": -6.4
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2013,
+      "T_Max_Abs": 35.1,
+      "T_Max_Med": 17,
+      "T_Min_Med": 5,
+      "T_Min_Abs": -7.8
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2012,
+      "T_Max_Abs": 37.9,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 4.8,
+      "T_Min_Abs": -8.9
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2011,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 6.4,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2010,
+      "T_Max_Abs": 35.9,
+      "T_Max_Med": 17,
+      "T_Min_Med": 5.3,
+      "T_Min_Abs": -9.6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2009,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 5.6,
+      "T_Min_Abs": -10.5
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2008,
+      "T_Max_Abs": 36.5,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 4.8,
+      "T_Min_Abs": -10
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2007,
+      "T_Max_Abs": 36.6,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 4.9,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2006,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 6.1,
+      "T_Min_Abs": -8.6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2005,
+      "T_Max_Abs": 36.5,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 4.9,
+      "T_Min_Abs": -9.8
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2004,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 5.2,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2003,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 6.2,
+      "T_Min_Abs": -8.5
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2002,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 17.7,
+      "T_Min_Med": 5.9,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2001,
+      "T_Max_Abs": 35.5,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 5.3,
+      "T_Min_Abs": -11
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 2000,
+      "T_Max_Abs": 35.8,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 5,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1999,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 4.8,
+      "T_Min_Abs": -11.8
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1998,
+      "T_Max_Abs": 37.5,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 5.1,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1997,
+      "T_Max_Abs": 34.3,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 6.4,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1996,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 5.3,
+      "T_Min_Abs": -8
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1995,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 18.7,
+      "T_Min_Med": 6,
+      "T_Min_Abs": -5.2
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1994,
+      "T_Max_Abs": 35.5,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 5.4,
+      "T_Min_Abs": -8.2
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1993,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 16.2,
+      "T_Min_Med": 4.7,
+      "T_Min_Abs": -10.4
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1992,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 4.9,
+      "T_Min_Abs": -7.6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1991,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 4.7,
+      "T_Min_Abs": -8.4
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1990,
+      "T_Max_Abs": 36.5,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 5.6,
+      "T_Min_Abs": -9.6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1989,
+      "T_Max_Abs": 37.6,
+      "T_Max_Med": 18.7,
+      "T_Min_Med": 6.1,
+      "T_Min_Abs": -9.6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1988,
+      "T_Max_Abs": 37.6,
+      "T_Max_Med": 17.3,
+      "T_Min_Med": 4.8,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1987,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 17.7,
+      "T_Min_Med": 5.4,
+      "T_Min_Abs": -10.6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1986,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 4.5,
+      "T_Min_Abs": -9
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1985,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 4.8,
+      "T_Min_Abs": -12
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1984,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 16.3,
+      "T_Min_Med": 4.3,
+      "T_Min_Abs": -6.8
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1983,
+      "T_Max_Abs": 34.2,
+      "T_Max_Med": 17.7,
+      "T_Min_Med": 4.9,
+      "T_Min_Abs": -11.4
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1982,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 5.4,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1981,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 5.1,
+      "T_Min_Abs": -7.4
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1980,
+      "T_Max_Abs": 36.6,
+      "T_Max_Med": 17,
+      "T_Min_Med": 4.7,
+      "T_Min_Abs": -7
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1979,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 16.8,
+      "T_Min_Med": 5.4,
+      "T_Min_Abs": -6.6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1978,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 16.9,
+      "T_Min_Med": 4.8,
+      "T_Min_Abs": -9.6
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1977,
+      "T_Max_Abs": 32.4,
+      "T_Max_Med": 16.1,
+      "T_Min_Med": 5.1,
+      "T_Min_Abs": -7.4
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1976,
+      "T_Max_Abs": 36.8,
+      "T_Max_Med": 17,
+      "T_Min_Med": 4.7,
+      "T_Min_Abs": -11.2
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1975,
+      "T_Max_Abs": 35.2,
+      "T_Max_Med": 16.5,
+      "T_Min_Med": 4.3,
+      "T_Min_Abs": -12.4
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1974,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 16.1,
+      "T_Min_Med": 4,
+      "T_Min_Abs": -7
+    },
+    {
+      "Ciudad": "Valladolid",
+      "Ano": 1973,
+      "T_Max_Abs": 34.2,
+      "T_Max_Med": 16.8,
+      "T_Min_Med": 3.5,
+      "T_Min_Abs": -8.2
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2023,
+      "T_Max_Abs": 41.1,
+      "T_Max_Med": 19.7,
+      "T_Min_Med": 6.8,
+      "T_Min_Abs": -8
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2022,
+      "T_Max_Abs": 40.9,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 6.7,
+      "T_Min_Abs": -7.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2021,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 6,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2020,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 18.8,
+      "T_Min_Med": 6.8,
+      "T_Min_Abs": -3.9
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2019,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 18.7,
+      "T_Min_Med": 5.8,
+      "T_Min_Abs": -8.7
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2018,
+      "T_Max_Abs": 36.3,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 6.6,
+      "T_Min_Abs": -7.9
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2017,
+      "T_Max_Abs": 36.6,
+      "T_Max_Med": 19.5,
+      "T_Min_Med": 5.4,
+      "T_Min_Abs": -10.1
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2016,
+      "T_Max_Abs": 38.8,
+      "T_Max_Med": 18.7,
+      "T_Min_Med": 5.9,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2015,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 18.9,
+      "T_Min_Med": 6.4,
+      "T_Min_Abs": -7.7
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2014,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 19.4,
+      "T_Min_Med": 6.8,
+      "T_Min_Abs": -6.6
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2013,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 6.1,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2012,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 18.2,
+      "T_Min_Med": 5.6,
+      "T_Min_Abs": -7.5
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2011,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 18.6,
+      "T_Min_Med": 6.5,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2010,
+      "T_Max_Abs": 36.5,
+      "T_Max_Med": 16.6,
+      "T_Min_Med": 5.5,
+      "T_Min_Abs": -12.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2009,
+      "T_Max_Abs": 37,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 6.6,
+      "T_Min_Abs": -8.5
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2008,
+      "T_Max_Abs": 33.5,
+      "T_Max_Med": 16.9,
+      "T_Min_Med": 6,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2007,
+      "T_Max_Abs": 36.3,
+      "T_Max_Med": 16.9,
+      "T_Min_Med": 5.9,
+      "T_Min_Abs": -9.5
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2006,
+      "T_Max_Abs": 36.5,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 7,
+      "T_Min_Abs": -9.5
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2005,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 17.1,
+      "T_Min_Med": 5.6,
+      "T_Min_Abs": -9
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2004,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 16.9,
+      "T_Min_Med": 6.6,
+      "T_Min_Abs": -9.2
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2003,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 18.3,
+      "T_Min_Med": 7.2,
+      "T_Min_Abs": -6.2
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2002,
+      "T_Max_Abs": 34.8,
+      "T_Max_Med": 17.5,
+      "T_Min_Med": 6.5,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2001,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 17.4,
+      "T_Min_Med": 6.1,
+      "T_Min_Abs": -11.5
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 2000,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 17.8,
+      "T_Min_Med": 6,
+      "T_Min_Abs": -7
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1999,
+      "T_Max_Abs": 35.5,
+      "T_Max_Med": 17,
+      "T_Min_Med": 6.7,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1998,
+      "T_Max_Abs": 38.7,
+      "T_Max_Med": 17.2,
+      "T_Min_Med": 6.2,
+      "T_Min_Abs": -7.6
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1997,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 7.1,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1996,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 16.8,
+      "T_Min_Med": 6.2,
+      "T_Min_Abs": -6.8
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1995,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 18,
+      "T_Min_Med": 6.7,
+      "T_Min_Abs": -5.5
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1994,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 17.6,
+      "T_Min_Med": 7.1,
+      "T_Min_Abs": -7.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1993,
+      "T_Max_Abs": 34.8,
+      "T_Max_Med": 16.3,
+      "T_Min_Med": 5.8,
+      "T_Min_Abs": -8.7
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1992,
+      "T_Max_Abs": 35.7,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 6,
+      "T_Min_Abs": -6.5
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1991,
+      "T_Max_Abs": 36.7,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 5.9,
+      "T_Min_Abs": -8
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1990,
+      "T_Max_Abs": 37.1,
+      "T_Max_Med": 17.9,
+      "T_Min_Med": 6.1,
+      "T_Min_Abs": -7.6
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1989,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 18.1,
+      "T_Min_Med": 6.4,
+      "T_Min_Abs": -8.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1988,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 16.6,
+      "T_Min_Med": 5.9,
+      "T_Min_Abs": -9.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1987,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 16.8,
+      "T_Min_Med": 6,
+      "T_Min_Abs": -7.8
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1986,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 16.2,
+      "T_Min_Med": 5.8,
+      "T_Min_Abs": -6.8
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1985,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 5.4,
+      "T_Min_Abs": -17.8
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1984,
+      "T_Max_Abs": 35.2,
+      "T_Max_Med": 15.4,
+      "T_Min_Med": 5.5,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1983,
+      "T_Max_Abs": 36.8,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 6.4,
+      "T_Min_Abs": -15.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1982,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 16.4,
+      "T_Min_Med": 6.7,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1981,
+      "T_Max_Abs": 37.4,
+      "T_Max_Med": 16.6,
+      "T_Min_Med": 6.2,
+      "T_Min_Abs": -4.6
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1980,
+      "T_Max_Abs": 33.2,
+      "T_Max_Med": 15.7,
+      "T_Min_Med": 5.9,
+      "T_Min_Abs": -7.4
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1979,
+      "T_Max_Abs": 35.4,
+      "T_Max_Med": 15.9,
+      "T_Min_Med": 6.6,
+      "T_Min_Abs": -6.8
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1978,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 16,
+      "T_Min_Med": 6.3,
+      "T_Min_Abs": -13.2
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1977,
+      "T_Max_Abs": 31.6,
+      "T_Max_Med": 16,
+      "T_Min_Med": 6.4,
+      "T_Min_Abs": -7
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1976,
+      "T_Max_Abs": 34.2,
+      "T_Max_Med": 16.1,
+      "T_Min_Med": 5.9,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1975,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 15.9,
+      "T_Min_Med": 6.5,
+      "T_Min_Abs": -6.2
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1974,
+      "T_Max_Abs": 36.4,
+      "T_Max_Med": 15.5,
+      "T_Min_Med": 6.2,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Vitoria",
+      "Ano": 1973,
+      "T_Max_Abs": 35.8,
+      "T_Max_Med": 15.6,
+      "T_Min_Med": 6,
+      "T_Min_Abs": -6.8
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2023,
+      "T_Max_Abs": 41.8,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 11.8,
+      "T_Min_Abs": -3.1
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2022,
+      "T_Max_Abs": 41.9,
+      "T_Max_Med": 23.2,
+      "T_Min_Med": 12,
+      "T_Min_Abs": -3.2
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2021,
+      "T_Max_Abs": 41.5,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -3.1
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2020,
+      "T_Max_Abs": 40.2,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -2.8
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2019,
+      "T_Max_Abs": 43.2,
+      "T_Max_Med": 22.5,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -4.9
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2018,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -2.9
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2017,
+      "T_Max_Abs": 40.1,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -4.1
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2016,
+      "T_Max_Abs": 42,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -0.8
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2015,
+      "T_Max_Abs": 44.5,
+      "T_Max_Med": 22.2,
+      "T_Min_Med": 10.9,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2014,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 22.6,
+      "T_Min_Med": 11.5,
+      "T_Min_Abs": -0.5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2013,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 21,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2012,
+      "T_Max_Abs": 41.4,
+      "T_Max_Med": 22.2,
+      "T_Min_Med": 10.3,
+      "T_Min_Abs": -4.7
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2011,
+      "T_Max_Abs": 41.1,
+      "T_Max_Med": 22.3,
+      "T_Min_Med": 11,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2010,
+      "T_Max_Abs": 42.8,
+      "T_Max_Med": 20.8,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2009,
+      "T_Max_Abs": 43.1,
+      "T_Max_Med": 22.2,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2008,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 10,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2007,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 21.2,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -6.5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2006,
+      "T_Max_Abs": 39.7,
+      "T_Max_Med": 22,
+      "T_Min_Med": 10.8,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2005,
+      "T_Max_Abs": 42.3,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 9.6,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2004,
+      "T_Max_Abs": 39.8,
+      "T_Max_Med": 21,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -3
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2003,
+      "T_Max_Abs": 39.6,
+      "T_Max_Med": 21.8,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -4.7
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2002,
+      "T_Max_Abs": 38.5,
+      "T_Max_Med": 21.4,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -1.2
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2001,
+      "T_Max_Abs": 40.5,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 10,
+      "T_Min_Abs": -9.5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 2000,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -5.8
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1999,
+      "T_Max_Abs": 39.4,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 9.9,
+      "T_Min_Abs": -3.8
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1998,
+      "T_Max_Abs": 39.5,
+      "T_Max_Med": 21.1,
+      "T_Min_Med": 9.6,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1997,
+      "T_Max_Abs": 36.7,
+      "T_Max_Med": 21.6,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1996,
+      "T_Max_Abs": 39.1,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -2.6
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1995,
+      "T_Max_Abs": 40.6,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -3.3
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1994,
+      "T_Max_Abs": 42.5,
+      "T_Max_Med": 21.7,
+      "T_Min_Med": 10.5,
+      "T_Min_Abs": -4.4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1993,
+      "T_Max_Abs": 39.8,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -3.5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1992,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 9.5,
+      "T_Min_Abs": -7.2
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1991,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 20.6,
+      "T_Min_Med": 9.6,
+      "T_Min_Abs": -5.7
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1990,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 21.5,
+      "T_Min_Med": 10.2,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1989,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 21.3,
+      "T_Min_Med": 10.6,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1988,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 20.6,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -5.6
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1987,
+      "T_Max_Abs": 41.2,
+      "T_Max_Med": 20.9,
+      "T_Min_Med": 10.1,
+      "T_Min_Abs": -4.8
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1986,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 9.7,
+      "T_Min_Abs": -2.4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1985,
+      "T_Max_Abs": 38.2,
+      "T_Max_Med": 20.4,
+      "T_Min_Med": 9.2,
+      "T_Min_Abs": -6.6
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1984,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 19.6,
+      "T_Min_Med": 9,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1983,
+      "T_Max_Abs": 40.8,
+      "T_Max_Med": 20.7,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -7.6
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1982,
+      "T_Max_Abs": 41.2,
+      "T_Max_Med": 20.3,
+      "T_Min_Med": 10.4,
+      "T_Min_Abs": -0.6
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1981,
+      "T_Max_Abs": 39.2,
+      "T_Max_Med": 20.7,
+      "T_Min_Med": 9.8,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1980,
+      "T_Max_Abs": 37.5,
+      "T_Max_Med": 19.5,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -6
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1979,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 19.8,
+      "T_Min_Med": 9.6,
+      "T_Min_Abs": -3.4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1978,
+      "T_Max_Abs": 42.6,
+      "T_Max_Med": 20,
+      "T_Min_Med": 9.1,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1977,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 19.5,
+      "T_Min_Med": 9.3,
+      "T_Min_Abs": -1.6
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1976,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 19.9,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -4.2
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1975,
+      "T_Max_Abs": 38.4,
+      "T_Max_Med": 19.5,
+      "T_Min_Med": 8.9,
+      "T_Min_Abs": -5.4
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1974,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 19.3,
+      "T_Min_Med": 8.6,
+      "T_Min_Abs": -5
+    },
+    {
+      "Ciudad": "Zaragoza",
+      "Ano": 1973,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 19.8,
+      "T_Min_Med": 8.5,
+      "T_Min_Abs": -7.7
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2023,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 25.9,
+      "T_Min_Med": 19.5,
+      "T_Min_Abs": 12.1
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2022,
+      "T_Max_Abs": 36.5,
+      "T_Max_Med": 24.8,
+      "T_Min_Med": 18.6,
+      "T_Min_Abs": 11.9
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2021,
+      "T_Max_Abs": 35.5,
+      "T_Max_Med": 20.5,
+      "T_Min_Med": 15.5,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2020,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 24.9,
+      "T_Min_Med": 18.7,
+      "T_Min_Abs": 10.8
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2019,
+      "T_Max_Abs": 31.7,
+      "T_Max_Med": 22.3,
+      "T_Min_Med": 16.8,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2018,
+      "T_Max_Abs": 34.4,
+      "T_Max_Med": 21.9,
+      "T_Min_Med": 16.5,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2017,
+      "T_Max_Abs": 35.9,
+      "T_Max_Med": 24.9,
+      "T_Min_Med": 18.7,
+      "T_Min_Abs": 12.4
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2016,
+      "T_Max_Abs": 37.9,
+      "T_Max_Med": 24.9,
+      "T_Min_Med": 19,
+      "T_Min_Abs": 9.7
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2015,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 18.5,
+      "T_Min_Med": 14.1,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2014,
+      "T_Max_Abs": 31.7,
+      "T_Max_Med": 20.1,
+      "T_Min_Med": 15.1,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2013,
+      "T_Max_Abs": 37.3,
+      "T_Max_Med": 22.7,
+      "T_Min_Med": 17.2,
+      "T_Min_Abs": ""
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2012,
+      "T_Max_Abs": 34.5,
+      "T_Max_Med": 24.4,
+      "T_Min_Med": 18.5,
+      "T_Min_Abs": 11.8
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2011,
+      "T_Max_Abs": 32.3,
+      "T_Max_Med": 24.4,
+      "T_Min_Med": 18.5,
+      "T_Min_Abs": 10.1
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2010,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 25.2,
+      "T_Min_Med": 19.1,
+      "T_Min_Abs": 13.2
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2009,
+      "T_Max_Abs": 38.1,
+      "T_Max_Med": 24.2,
+      "T_Min_Med": 18.3,
+      "T_Min_Abs": 11
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2008,
+      "T_Max_Abs": 33.7,
+      "T_Max_Med": 23.7,
+      "T_Min_Med": 17.8,
+      "T_Min_Abs": 12.2
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2007,
+      "T_Max_Abs": 38.9,
+      "T_Max_Med": 23.7,
+      "T_Min_Med": 17.6,
+      "T_Min_Abs": 12
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2006,
+      "T_Max_Abs": 38.9,
+      "T_Max_Med": 23.8,
+      "T_Min_Med": 17.7,
+      "T_Min_Abs": 12.3
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2005,
+      "T_Max_Abs": 37.7,
+      "T_Max_Med": 23.9,
+      "T_Min_Med": 18,
+      "T_Min_Abs": 11.3
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2004,
+      "T_Max_Abs": 37.7,
+      "T_Max_Med": 24.4,
+      "T_Min_Med": 18.3,
+      "T_Min_Abs": 12.6
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2003,
+      "T_Max_Abs": 32.5,
+      "T_Max_Med": 24.1,
+      "T_Min_Med": 18.1,
+      "T_Min_Abs": 10.9
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2002,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 24.4,
+      "T_Min_Med": 18.5,
+      "T_Min_Abs": 12.5
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2001,
+      "T_Max_Abs": 33.4,
+      "T_Max_Med": 24.6,
+      "T_Min_Med": 18.8,
+      "T_Min_Abs": 11.9
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 2000,
+      "T_Max_Abs": 31.7,
+      "T_Max_Med": 24.2,
+      "T_Min_Med": 18.2,
+      "T_Min_Abs": 11.2
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1999,
+      "T_Max_Abs": 34.9,
+      "T_Max_Med": 24.3,
+      "T_Min_Med": 18.8,
+      "T_Min_Abs": 12.2
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1998,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 25.4,
+      "T_Min_Med": 19.2,
+      "T_Min_Abs": 14
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1997,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 25.3,
+      "T_Min_Med": 19.1,
+      "T_Min_Abs": 13
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1996,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 24.8,
+      "T_Min_Med": 18.4,
+      "T_Min_Abs": 12
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1995,
+      "T_Max_Abs": 36,
+      "T_Max_Med": 24.9,
+      "T_Min_Med": 18.8,
+      "T_Min_Abs": 11.4
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1994,
+      "T_Max_Abs": 33.6,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 17.6,
+      "T_Min_Abs": 9.4
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1993,
+      "T_Max_Abs": 33.6,
+      "T_Max_Med": 23.4,
+      "T_Min_Med": 17.1,
+      "T_Min_Abs": 10.5
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1992,
+      "T_Max_Abs": 31.6,
+      "T_Max_Med": 23.7,
+      "T_Min_Med": 17.5,
+      "T_Min_Abs": 10.6
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1991,
+      "T_Max_Abs": 32,
+      "T_Max_Med": 23.8,
+      "T_Min_Med": 17.3,
+      "T_Min_Abs": 11.5
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1990,
+      "T_Max_Abs": 37.8,
+      "T_Max_Med": 24.9,
+      "T_Min_Med": 18.3,
+      "T_Min_Abs": 11.8
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1989,
+      "T_Max_Abs": 35.2,
+      "T_Max_Med": 24.5,
+      "T_Min_Med": 17.9,
+      "T_Min_Abs": 10.2
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1988,
+      "T_Max_Abs": 34.7,
+      "T_Max_Med": 23.9,
+      "T_Min_Med": 17.5,
+      "T_Min_Abs": 10.5
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1987,
+      "T_Max_Abs": 39,
+      "T_Max_Med": 24.7,
+      "T_Min_Med": 18.1,
+      "T_Min_Abs": 10.4
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1986,
+      "T_Max_Abs": 35,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 17.2,
+      "T_Min_Abs": 10
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1985,
+      "T_Max_Abs": 34.6,
+      "T_Max_Med": 24.3,
+      "T_Min_Med": 17.6,
+      "T_Min_Abs": 11
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1984,
+      "T_Max_Abs": 33.2,
+      "T_Max_Med": 23.8,
+      "T_Min_Med": 17.5,
+      "T_Min_Abs": 10
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1983,
+      "T_Max_Abs": 37.2,
+      "T_Max_Med": 23.9,
+      "T_Min_Med": 18,
+      "T_Min_Abs": 11
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1982,
+      "T_Max_Abs": 38,
+      "T_Max_Med": 23.2,
+      "T_Min_Med": 17.6,
+      "T_Min_Abs": 11.2
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1981,
+      "T_Max_Abs": 33,
+      "T_Max_Med": 23.3,
+      "T_Min_Med": 17.6,
+      "T_Min_Abs": 10
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1980,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 23.5,
+      "T_Min_Med": 17.6,
+      "T_Min_Abs": 10
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1979,
+      "T_Max_Abs": 35.6,
+      "T_Max_Med": 23,
+      "T_Min_Med": 17.4,
+      "T_Min_Abs": 10.4
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1978,
+      "T_Max_Abs": 36.2,
+      "T_Max_Med": 23.6,
+      "T_Min_Med": 17.4,
+      "T_Min_Abs": 11.4
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1977,
+      "T_Max_Abs": 30.2,
+      "T_Max_Med": 23,
+      "T_Min_Med": 17.3,
+      "T_Min_Abs": 10.6
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1976,
+      "T_Max_Abs": 38.6,
+      "T_Max_Med": 23.2,
+      "T_Min_Med": 17.3,
+      "T_Min_Abs": 10.4
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1975,
+      "T_Max_Abs": 34,
+      "T_Max_Med": 23,
+      "T_Min_Med": 17.2,
+      "T_Min_Abs": 11.4
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1974,
+      "T_Max_Abs": 32.6,
+      "T_Max_Med": 22.8,
+      "T_Min_Med": 17.1,
+      "T_Min_Abs": 11.2
+    },
+    {
+      "Ciudad": "Las Palmas",
+      "Ano": 1973,
+      "T_Max_Abs": 31.2,
+      "T_Max_Med": 23,
+      "T_Min_Med": 17.2,
+      "T_Min_Abs": 9.9
+    }
+  ]
