@@ -1,0 +1,109 @@
+[
+  {
+    "Ciudad": "Barcelona",
+    "v_max_abs": 4.3,
+    "v_max_med": 0.8,
+    "v_min_med": 3.3,
+    "v__min_abs": 1.2
+  },
+  {
+    "Ciudad": "Cáceres",
+    "v_max_abs": 1.1,
+    "v_max_med": 2.4,
+    "v_min_med": 1.2,
+    "v__min_abs": -0.8
+  },
+  {
+    "Ciudad": "Coruña",
+    "v_max_abs": 5.8,
+    "v_max_med": 2.7,
+    "v_min_med": 2.6,
+    "v__min_abs": -0.1
+  },
+  {
+    "Ciudad": "Logroño",
+    "v_max_abs": 6.3,
+    "v_max_med": 3.1,
+    "v_min_med": 0.1,
+    "v__min_abs": -0.5
+  },
+  {
+    "Ciudad": "Madrid",
+    "v_max_abs": 1.2,
+    "v_max_med": 2.1,
+    "v_min_med": 3.5,
+    "v__min_abs": 0.6
+  },
+  {
+    "Ciudad": "Murcia",
+    "v_max_abs": 6.8,
+    "v_max_med": 3.6,
+    "v_min_med": 2.4,
+    "v__min_abs": 1.5
+  },
+  {
+    "Ciudad": "Oviedo",
+    "v_max_abs": 8.2,
+    "v_max_med": 2.1,
+    "v_min_med": 2.4,
+    "v__min_abs": -0.5
+  },
+  {
+    "Ciudad": "Palma de Mallorca",
+    "v_max_abs": 5,
+    "v_max_med": 2.1,
+    "v_min_med": 3.3,
+    "v__min_abs": 2.6
+  },
+  {
+    "Ciudad": "Pamplona",
+    "v_max_abs": -0.5,
+    "v_max_med": -1.6,
+    "v_min_med": -0.3,
+    "v__min_abs": 3.5
+  },
+  {
+    "Ciudad": "Sevilla",
+    "v_max_abs": 2.1,
+    "v_max_med": 0.7,
+    "v_min_med": 1.9,
+    "v__min_abs": -0.2
+  },
+  {
+    "Ciudad": "Toledo",
+    "v_max_abs": 4.3,
+    "v_max_med": 3.5,
+    "v_min_med": 2.1,
+    "v__min_abs": -0.4
+  },
+  {
+    "Ciudad": "Valencia",
+    "v_max_abs": 9.7,
+    "v_max_med": 2.4,
+    "v_min_med": 2.5,
+    "v__min_abs": 1.7
+  },
+  {
+    "Ciudad": "Valladolid",
+    "v_max_abs": 5,
+    "v_max_med": 2.7,
+    "v_min_med": 2.6,
+    "v__min_abs": 0.7
+  },
+  {
+    "Ciudad": "Vitoria",
+    "v_max_abs": 5.3,
+    "v_max_med": 4.1,
+    "v_min_med": 0.8,
+    "v__min_abs": -1.2
+  },
+  {
+    "Ciudad": "Zaragoza",
+    "v_max_abs": 3.8,
+    "v_max_med": 3.5,
+    "v_min_med": 3.3,
+    "v__min_abs": 4.6
+  }
+]
+variacion.json
+Mostrando variacion.json.
